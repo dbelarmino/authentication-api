@@ -59,7 +59,7 @@ Este projeto está sob a licença do MIT. Ver a [LICENÇA](https://github.com/do
 
 ---
 
-Feito por Douglas Belarmino :wave: [Entre em contato!](https://www.linkedin.com/in/douglasbelarmino)
+Feito por Douglas Belarmino :wave: [Entre em contato!](https://www.linkedin.com/in/douglas-belarmino)
 
 [nodejs]: https://nodejs.org/
 [yarn]: https://yarnpkg.com/
