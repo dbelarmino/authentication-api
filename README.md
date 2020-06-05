@@ -24,7 +24,7 @@
 
 Este projecto foi desenvolvido com as seguintes tecnologias:
 
--  [Node.js](https://nodejs.org/pt-br)
+-  [Node.js](https://nodejs.org)
 -  [TypeScript](https://www.typescriptlang.org)
 -  [Express](https://github.com/expressjs/express)
 -  [Mongoose](https://mongoosejs.com)
@@ -61,5 +61,5 @@ Este projeto está sob a licença do MIT. Ver a [LICENÇA](https://github.com/do
 
 Feito por Douglas Belarmino :wave: [Entre em contato!](https://www.linkedin.com/in/douglas-belarmino)
 
-[nodejs]: https://nodejs.org/
-[yarn]: https://yarnpkg.com/
+[nodejs]: https://nodejs.org
+[yarn]: https://yarnpkg.com
