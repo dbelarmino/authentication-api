@@ -20,12 +20,6 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/douglasbelarmino/authentication-api">
 </p>
 
-<p align="center">
-  <a href="#rocket-technologies">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#information_source-how-to-use">Como Utilizar</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-license">Licença</a>
-</p>
-
 ## :rocket: Tecnologias
 
 Este projecto foi desenvolvido com as seguintes tecnologias:
@@ -66,3 +60,6 @@ Este projeto está sob a licença do MIT. Ver a [LICENÇA](https://github.com/do
 ---
 
 Feito por Douglas Belarmino :wave: [Entre em contato!](https://www.linkedin.com/in/douglasbelarmino)
+
+[nodejs]: https://nodejs.org/
+[yarn]: https://yarnpkg.com/
