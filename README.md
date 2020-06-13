@@ -19,7 +19,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/douglasbelarmino/authentication-api">
 </p>
 
-## :rocket:Tecnologias
+## :rocket : Tecnologias
 
 Este projecto foi desenvolvido com as seguintes tecnologias:
 
