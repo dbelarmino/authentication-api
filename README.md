@@ -3,7 +3,7 @@
 </h1>
 
 <h4 align="center">
-  API de Sign Up e Sig In de usuários
+  API de Sign Up e Sign In de usuários
 </h4>
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/douglasbelarmino/authentication-api">
